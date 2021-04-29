@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-29T07:16:18.241Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="aXsAWnQ9L4X4tS9hmYtE" version="14.6.6" type="github" pages="2">
+<mxfile modified="2021-04-29T07:18:54.256Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-Fe8Eq6yLj-xaBhGsUaA" version="14.6.6" type="github" pages="2">
   <diagram id="7NOKJoxBeWocO0zpXVM_" name="MoonBank">
     <mxGraphModel dx="780" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w8XVWNWsTbKyDXxL2xs8-20" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="w8XVWNWsTbKyDXxL2xs8-1" vertex="1">
-          <mxGeometry x="620" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w8XVWNWsTbKyDXxL2xs8-21" value="&lt;font color=&quot;#000000&quot;&gt;Logs&lt;/font&gt;&lt;br&gt;GCS" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="w8XVWNWsTbKyDXxL2xs8-20" vertex="1">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
