@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-29T07:37:45.911Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="NnpDmKKIN8qr1Sfsz3il" version="14.6.6" type="github" pages="2">
+<mxfile modified="2021-04-29T07:41:51.497Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="aB8nmWG1LEZq-YFHn9Bv" version="14.6.6" type="github" pages="2">
   <diagram id="7NOKJoxBeWocO0zpXVM_" name="MoonBank">
     <mxGraphModel dx="3342" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -267,13 +267,22 @@
         <mxCell id="Zwh_xfM-_3h61Ws-3dWn-163" value="KYC" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.3rd_party_integration;" vertex="1" parent="w8XVWNWsTbKyDXxL2xs8-1">
           <mxGeometry x="953" y="30" width="54" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Zwh_xfM-_3h61Ws-3dWn-166" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="w8XVWNWsTbKyDXxL2xs8-1">
-          <mxGeometry x="173" y="562" width="150" height="60" as="geometry" />
+        <mxCell id="Zwh_xfM-_3h61Ws-3dWn-175" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#0000FF;" edge="1" parent="w8XVWNWsTbKyDXxL2xs8-1" source="Zwh_xfM-_3h61Ws-3dWn-166" target="Zwh_xfM-_3h61Ws-3dWn-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zwh_xfM-_3h61Ws-3dWn-167" value="&lt;font color=&quot;#000000&quot;&gt;Maintenance&lt;/font&gt;&lt;br&gt;Cloud Endpoints" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_endpoints;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="Zwh_xfM-_3h61Ws-3dWn-166">
+        <mxCell id="Zwh_xfM-_3h61Ws-3dWn-166" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="w8XVWNWsTbKyDXxL2xs8-1">
+          <mxGeometry x="281.25" y="520" width="118.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwh_xfM-_3h61Ws-3dWn-167" value="&lt;font color=&quot;#000000&quot;&gt;Service&lt;/font&gt;&lt;br&gt;Endpoints" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_endpoints;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="Zwh_xfM-_3h61Ws-3dWn-166">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Zwh_xfM-_3h61Ws-3dWn-177" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#0000FF;" edge="1" parent="w8XVWNWsTbKyDXxL2xs8-1" source="Zwh_xfM-_3h61Ws-3dWn-172" target="Zwh_xfM-_3h61Ws-3dWn-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwh_xfM-_3h61Ws-3dWn-172" value="Dev/Ops" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="w8XVWNWsTbKyDXxL2xs8-1">
+          <mxGeometry x="202" y="530" width="38" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
