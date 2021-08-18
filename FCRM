@@ -1,4 +1,4 @@
-<mxfile modified="2021-08-18T07:26:50.545Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="GftRWWbUsCmz6jvDM74Z" version="14.7.6" type="github">
+<mxfile modified="2021-08-18T07:33:15.258Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ED8ic4oNNOCLLUUOqXo1" version="14.7.6" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="3302" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
             <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cH1osxynXv5uJfxYzdRU-562" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cH1osxynXv5uJfxYzdRU-425" source="cH1osxynXv5uJfxYzdRU-532" target="cH1osxynXv5uJfxYzdRU-557">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cH1osxynXv5uJfxYzdRU-532" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="cH1osxynXv5uJfxYzdRU-425">
           <mxGeometry x="645" y="220" width="140" height="70" as="geometry" />
         </mxCell>
@@ -98,12 +101,23 @@
             <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cH1osxynXv5uJfxYzdRU-569" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="cH1osxynXv5uJfxYzdRU-425" source="cH1osxynXv5uJfxYzdRU-559" target="cH1osxynXv5uJfxYzdRU-563">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cH1osxynXv5uJfxYzdRU-559" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="cH1osxynXv5uJfxYzdRU-425">
           <mxGeometry x="450" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cH1osxynXv5uJfxYzdRU-560" value="&lt;font color=&quot;#000000&quot;&gt;Transformed&lt;/font&gt;&lt;br&gt;Cloud Storage&lt;hr&gt;Data" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="cH1osxynXv5uJfxYzdRU-559">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cH1osxynXv5uJfxYzdRU-563" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="cH1osxynXv5uJfxYzdRU-425">
+          <mxGeometry x="230" y="500" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cH1osxynXv5uJfxYzdRU-564" value="&lt;font color=&quot;#000000&quot;&gt;Model&amp;nbsp;Training&lt;/font&gt;&lt;br&gt;Cloud ML&lt;hr&gt;TensorFlow" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_machine_learning;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="cH1osxynXv5uJfxYzdRU-563">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cH1osxynXv5uJfxYzdRU-536" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="cH1osxynXv5uJfxYzdRU-451" source="cH1osxynXv5uJfxYzdRU-421" target="cH1osxynXv5uJfxYzdRU-528">
@@ -523,6 +537,22 @@
           <mxGeometry x="2410" y="650" width="110" height="53.75" as="geometry" />
         </mxCell>
         <mxCell id="cH1osxynXv5uJfxYzdRU-520" value="Cloud&#xa;Storage" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="cH1osxynXv5uJfxYzdRU-519">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cH1osxynXv5uJfxYzdRU-565" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="330" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cH1osxynXv5uJfxYzdRU-566" value="&lt;font color=&quot;#000000&quot;&gt;Trained Models&lt;/font&gt;&lt;br&gt;Cloud Storage&lt;hr&gt;ML, SNA, TNA" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="cH1osxynXv5uJfxYzdRU-565">
+          <mxGeometry width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cH1osxynXv5uJfxYzdRU-567" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="460" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cH1osxynXv5uJfxYzdRU-568" value="&lt;font color=&quot;#000000&quot;&gt;Deployed Models&lt;/font&gt;&lt;br&gt;Cloud ML&lt;hr&gt;ML, SNA, TNA" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_machine_learning;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="cH1osxynXv5uJfxYzdRU-567">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
